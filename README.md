@@ -43,7 +43,7 @@ handlers:
 
 En esta configuración, estamos especificando el tiempo de ejecución de Python, el comando de entrada para iniciar nuestra aplicación FastAPI con Uvicorn y cómo manejar las solicitudes HTTP entrantes.
 
-Asegúrate de que tu aplicación tenga una función principal llamada app en un archivo main.py. Aquí hay un ejemplo:
+Asegúrate de que tu aplicación tenga una función principal llamada app en un archivo **main.py**. Aquí hay un ejemplo:
 
 ```python
 from fastapi import FastAPI
